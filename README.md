@@ -1,5 +1,4 @@
-# LLMOP's Using GCP's Vertex AI
-
+# LLMop's Using GCP's Vertex AI
    
 ![image](https://github.com/user-attachments/assets/be91ea75-e975-4a10-9520-b29d8c9b11e6)
 
